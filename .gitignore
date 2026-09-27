@@ -1,0 +1,8 @@
+# Runtime logs and Python caches
+*.log
+*.key
+**/__pycache__/
+*.py[cod]
+
+# Locally generated mitmproxy CA and private keys
+/汉化/mitmproxy/

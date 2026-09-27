@@ -1,0 +1,19 @@
+{
+  "name": "Figma Local Runtime",
+  "api": "1.0.0",
+  "main": "main.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "enablePrivatePluginApi": true,
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ],
+    "devAllowedDomains": [
+      "http://localhost:43187"
+    ]
+  }
+}
