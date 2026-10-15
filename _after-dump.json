@@ -1,0 +1,387 @@
+{
+ "id": "18:942",
+ "name": "Nav / Agent 广场",
+ "type": "FRAME",
+ "visible": true,
+ "locked": false,
+ "x": 16,
+ "y": 43,
+ "width": 188,
+ "height": 34,
+ "rotation": 0,
+ "opacity": 1,
+ "relativeTransform": [
+  [
+   1,
+   0,
+   16
+  ],
+  [
+   0,
+   1,
+   43
+  ]
+ ],
+ "absoluteBoundingBox": {
+  "x": 16,
+  "y": 99,
+  "width": 188,
+  "height": 34
+ },
+ "layoutMode": "HORIZONTAL",
+ "primaryAxisSizingMode": "FIXED",
+ "counterAxisSizingMode": "FIXED",
+ "layoutSizingHorizontal": "FIXED",
+ "layoutSizingVertical": "FIXED",
+ "primaryAxisAlignItems": "MIN",
+ "counterAxisAlignItems": "CENTER",
+ "layoutAlign": "INHERIT",
+ "layoutGrow": 0,
+ "layoutPositioning": "AUTO",
+ "layoutWrap": "NO_WRAP",
+ "itemSpacing": 10,
+ "counterAxisSpacing": 0,
+ "paddingTop": 0,
+ "paddingRight": 10,
+ "paddingBottom": 0,
+ "paddingLeft": 10,
+ "minWidth": null,
+ "maxWidth": null,
+ "minHeight": null,
+ "maxHeight": null,
+ "constraints": {
+  "horizontal": "MIN",
+  "vertical": "MIN"
+ },
+ "clipsContent": true,
+ "overflowDirection": "NONE",
+ "numberOfFixedChildren": 0,
+ "reactions": [],
+ "fills": [
+  {
+   "type": "SOLID",
+   "visible": true,
+   "opacity": 1,
+   "blendMode": "NORMAL",
+   "color": {
+    "r": 0.8941176533699036,
+    "g": 0.8941176533699036,
+    "b": 0.9058823585510254
+   },
+   "boundVariables": {}
+  }
+ ],
+ "strokes": [],
+ "strokeWeight": 1,
+ "strokeAlign": "INSIDE",
+ "effects": [],
+ "cornerRadius": 10,
+ "topLeftRadius": 10,
+ "topRightRadius": 10,
+ "bottomLeftRadius": 10,
+ "bottomRightRadius": 10,
+ "cornerSmoothing": 0,
+ "fillStyleId": "",
+ "strokeStyleId": "",
+ "effectStyleId": "",
+ "gridStyleId": "",
+ "boundVariables": {},
+ "explicitVariableModes": {},
+ "children": [
+  {
+   "id": "18:943",
+   "name": "Icon / Agent",
+   "type": "FRAME",
+   "visible": true,
+   "locked": false,
+   "x": 10,
+   "y": 8,
+   "width": 18,
+   "height": 18,
+   "rotation": 0,
+   "opacity": 1,
+   "relativeTransform": [
+    [
+     1,
+     0,
+     10
+    ],
+    [
+     0,
+     1,
+     8
+    ]
+   ],
+   "absoluteBoundingBox": {
+    "x": 26,
+    "y": 107,
+    "width": 18,
+    "height": 18
+   },
+   "layoutMode": "HORIZONTAL",
+   "primaryAxisSizingMode": "FIXED",
+   "counterAxisSizingMode": "FIXED",
+   "layoutSizingHorizontal": "FIXED",
+   "layoutSizingVertical": "FIXED",
+   "primaryAxisAlignItems": "CENTER",
+   "counterAxisAlignItems": "CENTER",
+   "layoutAlign": "INHERIT",
+   "layoutGrow": 0,
+   "layoutPositioning": "AUTO",
+   "layoutWrap": "NO_WRAP",
+   "itemSpacing": 0,
+   "counterAxisSpacing": 0,
+   "paddingTop": 0,
+   "paddingRight": 0,
+   "paddingBottom": 0,
+   "paddingLeft": 0,
+   "minWidth": null,
+   "maxWidth": null,
+   "minHeight": null,
+   "maxHeight": null,
+   "constraints": {
+    "horizontal": "MIN",
+    "vertical": "MIN"
+   },
+   "clipsContent": true,
+   "overflowDirection": "NONE",
+   "numberOfFixedChildren": 0,
+   "reactions": [],
+   "fills": [
+    {
+     "type": "SOLID",
+     "visible": true,
+     "opacity": 1,
+     "blendMode": "NORMAL",
+     "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+     },
+     "boundVariables": {}
+    }
+   ],
+   "strokes": [
+    {
+     "type": "SOLID",
+     "visible": true,
+     "opacity": 1,
+     "blendMode": "NORMAL",
+     "color": {
+      "r": 0.8941176533699036,
+      "g": 0.8941176533699036,
+      "b": 0.9058823585510254
+     },
+     "boundVariables": {}
+    }
+   ],
+   "strokeWeight": 1,
+   "strokeAlign": "INSIDE",
+   "effects": [],
+   "cornerRadius": 5,
+   "topLeftRadius": 5,
+   "topRightRadius": 5,
+   "bottomLeftRadius": 5,
+   "bottomRightRadius": 5,
+   "cornerSmoothing": 0,
+   "fillStyleId": "",
+   "strokeStyleId": "",
+   "effectStyleId": "",
+   "gridStyleId": "",
+   "boundVariables": {},
+   "explicitVariableModes": {},
+   "children": [
+    {
+     "id": "18:944",
+     "name": "A",
+     "type": "TEXT",
+     "visible": true,
+     "locked": false,
+     "x": 5.5,
+     "y": 2.5,
+     "width": 7,
+     "height": 13,
+     "rotation": 0,
+     "opacity": 1,
+     "relativeTransform": [
+      [
+       1,
+       0,
+       5.5
+      ],
+      [
+       0,
+       1,
+       2.5
+      ]
+     ],
+     "absoluteBoundingBox": {
+      "x": 31.5,
+      "y": 109.5,
+      "width": 7,
+      "height": 13
+     },
+     "layoutSizingHorizontal": "HUG",
+     "layoutSizingVertical": "HUG",
+     "layoutAlign": "INHERIT",
+     "layoutGrow": 0,
+     "layoutPositioning": "AUTO",
+     "minWidth": null,
+     "maxWidth": null,
+     "minHeight": null,
+     "maxHeight": null,
+     "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+     },
+     "reactions": [],
+     "textAutoResize": "WIDTH_AND_HEIGHT",
+     "textTruncation": "DISABLED",
+     "maxLines": null,
+     "characters": "A",
+     "fontSize": 9,
+     "fontName": {
+      "family": "Inter",
+      "style": "Semi Bold",
+      "variationSettings": {
+       "slnt": 0,
+       "wght": 600
+      }
+     },
+     "lineHeight": {
+      "unit": "PIXELS",
+      "value": 13
+     },
+     "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+     },
+     "textAlignHorizontal": "LEFT",
+     "textAlignVertical": "TOP",
+     "paragraphIndent": 0,
+     "paragraphSpacing": 0,
+     "hasMissingFont": false,
+     "fills": [
+      {
+       "type": "SOLID",
+       "visible": true,
+       "opacity": 1,
+       "blendMode": "NORMAL",
+       "color": {
+        "r": 0.09019608050584793,
+        "g": 0.09019608050584793,
+        "b": 0.09019608050584793
+       },
+       "boundVariables": {}
+      }
+     ],
+     "strokes": [],
+     "strokeWeight": 1,
+     "strokeAlign": "OUTSIDE",
+     "effects": [],
+     "textStyleId": "",
+     "fillStyleId": "",
+     "strokeStyleId": "",
+     "effectStyleId": "",
+     "boundVariables": {},
+     "explicitVariableModes": {}
+    }
+   ]
+  },
+  {
+   "id": "18:945",
+   "name": "Agent",
+   "type": "TEXT",
+   "visible": true,
+   "locked": false,
+   "x": 38,
+   "y": 7.5,
+   "width": 68,
+   "height": 19,
+   "rotation": 0,
+   "opacity": 1,
+   "relativeTransform": [
+    [
+     1,
+     0,
+     38
+    ],
+    [
+     0,
+     1,
+     7.5
+    ]
+   ],
+   "absoluteBoundingBox": {
+    "x": 54,
+    "y": 106.5,
+    "width": 68,
+    "height": 19
+   },
+   "layoutSizingHorizontal": "HUG",
+   "layoutSizingVertical": "HUG",
+   "layoutAlign": "INHERIT",
+   "layoutGrow": 0,
+   "layoutPositioning": "AUTO",
+   "minWidth": null,
+   "maxWidth": null,
+   "minHeight": null,
+   "maxHeight": null,
+   "constraints": {
+    "horizontal": "MIN",
+    "vertical": "MIN"
+   },
+   "reactions": [],
+   "textAutoResize": "WIDTH_AND_HEIGHT",
+   "textTruncation": "DISABLED",
+   "maxLines": null,
+   "characters": "Agent 广场",
+   "fontSize": 13,
+   "fontName": {
+    "family": "Inter",
+    "style": "Semi Bold",
+    "variationSettings": {
+     "slnt": 0,
+     "wght": 600
+    }
+   },
+   "lineHeight": {
+    "unit": "PIXELS",
+    "value": 19
+   },
+   "letterSpacing": {
+    "unit": "PERCENT",
+    "value": 0
+   },
+   "textAlignHorizontal": "LEFT",
+   "textAlignVertical": "TOP",
+   "paragraphIndent": 0,
+   "paragraphSpacing": 0,
+   "hasMissingFont": false,
+   "fills": [
+    {
+     "type": "SOLID",
+     "visible": true,
+     "opacity": 1,
+     "blendMode": "NORMAL",
+     "color": {
+      "r": 0.09019608050584793,
+      "g": 0.09019608050584793,
+      "b": 0.09019608050584793
+     },
+     "boundVariables": {}
+    }
+   ],
+   "strokes": [],
+   "strokeWeight": 1,
+   "strokeAlign": "OUTSIDE",
+   "effects": [],
+   "textStyleId": "",
+   "fillStyleId": "",
+   "strokeStyleId": "",
+   "effectStyleId": "",
+   "boundVariables": {},
+   "explicitVariableModes": {}
+  }
+ ]
+}

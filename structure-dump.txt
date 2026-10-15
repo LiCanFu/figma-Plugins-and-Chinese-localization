@@ -1,0 +1,172 @@
+=== PAGES ===
+18:771 | Agent 01 · Agent 广场 | frames: ['Agent Studio / Agent 广场']
+18:917 | Agent 02 · 开始创作 | frames: ['Agent Studio / 开始创作']
+
+## 18:18 Agent Studio / Agent 广场 1440x1024 | page: Agent 01 · Agent 广场
+-- sections:
+   18:772 FRAME Top bar 1440x56
+   18:31 FRAME Application body 1440x968
+-- texts (96):
+  [26,20 10x11 Semi Bold #7c3aed] M
+  [52,17 52x15 Semi Bold #171717] MeiAPI
+  [466,19 26x13 Regular #171717] 主页
+  [518,19 39x13 Regular #171717] 控制台
+  [583,19 52x13 Regular #171717] 订阅套餐
+  [661,19 52x13 Regular #171717] 模型广场
+  [739,19 26x13 Regular #171717] 文档
+  [791,19 53x13 Regular #171717] GPT充值
+  [1196,20 44x11 Medium #71717a] 标准账户
+  [1277,20 24x12 Regular #71717a] 搜索
+  [1319,21 17x10 Regular #71717a] ⌘K
+  [1400,20 11x11 Semi Bold #15803d] 林
+  [24,76 22x11 Regular #71717a] 聊天
+  [32,110 7x9 Semi Bold #171717] A
+  [54,107 68x13 Semi Bold #171717] Agent 广场
+  [31,147 9x9 Semi Bold #71717a] 图
+  [54,144 52x13 Regular #171717] 图片生成
+  [31,184 9x9 Semi Bold #71717a] 视
+  [54,181 52x13 Regular #171717] 视频生成
+  [31,221 9x9 Semi Bold #71717a] 游
+  [54,218 39x13 Regular #171717] 游乐场
+  [24,251 22x11 Regular #71717a] 常规
+  [31,285 9x9 Semi Bold #71717a] 概
+  [54,282 26x13 Regular #171717] 概览
+  [31,322 9x9 Semi Bold #71717a] 数
+  [54,319 52x13 Regular #171717] 数据看板
+  [32,359 7x9 Semi Bold #71717a] A
+  [54,356 51x13 Regular #171717] API 密钥
+  [31,396 9x9 Semi Bold #71717a] 使
+  [54,393 52x13 Regular #171717] 使用日志
+  [31,433 9x9 Semi Bold #71717a] 生
+  [54,430 52x13 Regular #171717] 生成记录
+  [24,463 22x11 Regular #71717a] 个人
+  [31,497 9x9 Semi Bold #71717a] 钱
+  [54,494 26x13 Regular #171717] 钱包
+  [31,534 9x9 Semi Bold #71717a] 个
+  [54,531 52x13 Regular #171717] 个人资料
+  [253,92 145x28 Semi Bold #171717] Agent 广场
+  [253,137 364x13 Regular #71717a] 选择一个专门的创作搭档，从想法直接走到图片、视频或文案。
+  [1317,113 60x12 Medium #ffffff] 开始新创作
+  [268,184 24x12 Medium #ffffff] 推荐
+  [330,184 24x12 Medium #171717] 电商
+  [392,184 24x12 Medium #171717] 营销
+  [454,184 24x12 Medium #171717] 视频
+  [516,184 24x12 Medium #171717] 图片
+  [578,184 24x12 Medium #171717] 文字
+  [1131,184 101x12 Regular #a1a1aa] 搜索 Agent 或能力
+  [278,249 40x10 Medium #171717] 电商视觉
+  [268,397 90x15 Semi Bold #171717] 商品视觉工坊
+  [553,400 24x12 Medium #ffffff] 使用
+  [268,427 324x11 Regular #71717a] 从商品资料生成主图、详情素材和展示短片。
+  [268,452 40x10 Medium #7c3aed] 商品主图
+  [314,452 30x10 Medium #7c3aed] 详情页
+  [350,452 30x10 Medium #7c3aed] 短视频
+  [646,249 40x10 Medium #171717] 视频创作
+  [636,397 90x15 Semi Bold #171717] 品牌短片导演
+  [921,400 24x12 Medium #ffffff] 使用
+  [636,427 324x11 Regular #71717a] 把品牌故事拆成分镜、画面与节奏明确的短片。
+  [636,452 20x10 Medium #7c3aed] 分镜
+  [662,452 40x10 Medium #7c3aed] 图生视频
+  [708,452 20x10 Medium #7c3aed] 成片
+  [1014,249 40x10 Medium #171717] 社媒营销
+  [1004,397 90x15 Semi Bold #171717] 社媒内容搭子
+  [1289,400 24x12 Medium #ffffff] 使用
+  [1004,427 324x11 Regular #71717a] 围绕一个主题批量生成平台化文案与视觉素材。
+  [1004,452 30x10 Medium #7c3aed] 小红书
+  [1040,452 30x10 Medium #7c3aed] 短视频
+  [1076,452 20x10 Medium #7c3aed] 配图
+  [278,509 40x10 Medium #171717] 商品文案
+  [268,657 90x15 Semi Bold #171717] 电商文案专家
+  [553,660 24x12 Medium #ffffff] 使用
+  [268,687 324x11 Regular #71717a] 根据真实商品事实生成多平台标题、卖点和描述。
+  [268,712 20x10 Medium #7c3aed] 标题
+  [294,712 20x10 Medium #7c3aed] 卖点
+  [320,712 30x10 Medium #7c3aed] 多平台
+  [646,509 40x10 Medium #171717] 故事创作
+  [636,657 90x15 Semi Bold #171717] 故事绘本工坊
+  [921,660 24x12 Medium #ffffff] 使用
+  [636,687 324x11 Regular #71717a] 将故事梗概转换为分镜、插画和可交付内容。
+  [636,712 20x10 Medium #7c3aed] 脚本
+  [662,712 20x10 Medium #7c3aed] 插画
+  [688,712 20x10 Medium #7c3aed] PDF
+  [1014,509 40x10 Medium #171717] 办公效率
+  [1004,657 90x15 Semi Bold #171717] 演示文稿助手
+  [1289,660 24x12 Medium #ffffff] 使用
+  [1004,687 324x11 Regular #71717a] 从材料整理大纲，并生成可编辑的演示文稿。
+  [1004,712 20x10 Medium #7c3aed] 大纲
+  [1030,712 20x10 Medium #7c3aed] 配图
+  [1056,712 26x10 Medium #7c3aed] PPTX
+  [269,771 60x15 Semi Bold #171717] 最近创作
+  [280,816 96x12 Semi Bold #171717] 秋季新品发布素材
+  [280,836 99x10 Regular #71717a] 商品视觉工坊 · 运行中
+  [652,816 72x12 Semi Bold #171717] 无线耳机主图
+  [652,836 99x10 Regular #71717a] 商品视觉工坊 · 已完成
+  [1024,816 84x12 Semi Bold #171717] 海外站商品详情
+  [1024,836 99x10 Regular #71717a] 电商文案专家 · 已完成
+
+## 18:297 Agent Studio / 开始创作 1440x1024 | page: Agent 02 · 开始创作
+-- sections:
+   18:918 FRAME Top bar 1440x56
+   18:310 FRAME Application body 1440x968
+-- texts (61):
+  [26,20 10x11 Semi Bold #7c3aed] M
+  [52,17 52x15 Semi Bold #171717] MeiAPI
+  [466,19 26x13 Regular #171717] 主页
+  [518,19 39x13 Regular #171717] 控制台
+  [583,19 52x13 Regular #171717] 订阅套餐
+  [661,19 52x13 Regular #171717] 模型广场
+  [739,19 26x13 Regular #171717] 文档
+  [791,19 53x13 Regular #171717] GPT充值
+  [1196,20 44x11 Medium #71717a] 标准账户
+  [1277,20 24x12 Regular #71717a] 搜索
+  [1319,21 17x10 Regular #71717a] ⌘K
+  [1400,20 11x11 Semi Bold #15803d] 林
+  [24,76 22x11 Regular #71717a] 聊天
+  [32,110 7x9 Semi Bold #171717] A
+  [54,107 68x13 Semi Bold #171717] Agent 广场
+  [31,147 9x9 Semi Bold #71717a] 图
+  [54,144 52x13 Regular #171717] 图片生成
+  [31,184 9x9 Semi Bold #71717a] 视
+  [54,181 52x13 Regular #171717] 视频生成
+  [31,221 9x9 Semi Bold #71717a] 游
+  [54,218 39x13 Regular #171717] 游乐场
+  [24,251 22x11 Regular #71717a] 常规
+  [31,285 9x9 Semi Bold #71717a] 概
+  [54,282 26x13 Regular #171717] 概览
+  [31,322 9x9 Semi Bold #71717a] 数
+  [54,319 52x13 Regular #171717] 数据看板
+  [32,359 7x9 Semi Bold #71717a] A
+  [54,356 51x13 Regular #171717] API 密钥
+  [31,396 9x9 Semi Bold #71717a] 使
+  [54,393 52x13 Regular #171717] 使用日志
+  [31,433 9x9 Semi Bold #71717a] 生
+  [54,430 52x13 Regular #171717] 生成记录
+  [24,463 22x11 Regular #71717a] 个人
+  [31,497 9x9 Semi Bold #71717a] 钱
+  [54,494 26x13 Regular #171717] 钱包
+  [31,534 9x9 Semi Bold #71717a] 个
+  [54,531 52x13 Regular #171717] 个人资料
+  [819,194 24x24 Semi Bold #7c3aed] 创
+  [711,259 240x30 Semi Bold #171717] 今天想先做什么？
+  [694,319 275x13 Regular #71717a] 描述目标，选择 Agent，剩下的交给创作流程。
+  [460,373 744x14 Regular #a1a1aa] 输入想法、商品资料或脚本，也可以添加图片作为参考…
+  [486,425 35x12 Medium #171717] Agent
+  [579,425 48x12 Medium #171717] 添加素材
+  [1156,427 24x12 Medium #ffffff] 发送
+  [612,545 96x12 Medium #171717] 制作新品发布素材
+  [746,545 72x12 Medium #171717] 生成商品主图
+  [856,545 84x12 Medium #171717] 把故事做成短片
+  [978,545 72x12 Medium #171717] 优化商品文案
+  [666,589 99x12 Medium #171717] 制作品牌介绍 PPT
+  [803,589 72x12 Medium #171717] 生成社媒配图
+  [913,589 84x12 Medium #171717] 策划营销短视频
+  [326,636 78x15 Semi Bold #171717] 常用 Agent
+  [353,696 16x16 Semi Bold #2563eb] 商
+  [342,735 84x14 Semi Bold #171717] 商品视觉工坊
+  [342,764 58x11 Regular #71717a] 图片 + 视频
+  [693,696 16x16 Semi Bold #e11d48] 品
+  [682,735 84x14 Semi Bold #171717] 品牌短片导演
+  [682,764 58x11 Regular #71717a] 分镜 + 视频
+  [1033,696 16x16 Semi Bold #7c3aed] 电
+  [1022,735 84x14 Semi Bold #171717] 电商文案专家
+  [1022,764 22x11 Regular #71717a] 文字
